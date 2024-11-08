@@ -4,17 +4,17 @@
     "url": "https://ac.ccnuacm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ac.ccnuacm.com.ico",
     "slug": "ccnuoj",
-    "status": "up",
-    "uptime": "95.96%",
+    "status": "down",
+    "uptime": "95.97%",
     "uptimeDay": "96.87%",
     "uptimeWeek": "85.01%",
     "uptimeMonth": "88.11%",
-    "uptimeYear": "95.96%",
-    "time": 2088,
-    "timeDay": 1913,
-    "timeWeek": 2164,
-    "timeMonth": 2298,
-    "timeYear": 2088,
+    "uptimeYear": "95.97%",
+    "time": 2093,
+    "timeDay": 2178,
+    "timeWeek": 2242,
+    "timeMonth": 2300,
+    "timeYear": 2093,
     "dailyMinutesDown": {
       "2024-11-08": 45,
       "2024-11-06": 46,
@@ -40,8 +40,7 @@
       "2024-09-15": 21,
       "2024-09-08": 19,
       "2024-08-27": 19,
-      "2024-08-26": 42,
-      "2024-08-20": 18
+      "2024-08-26": 42
     }
   },
   {
