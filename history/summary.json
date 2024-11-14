@@ -6,17 +6,17 @@
     "slug": "ccnuoj",
     "status": "up",
     "uptime": "96.15%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "96.15%",
-    "time": 2108,
-    "timeDay": 3051,
-    "timeWeek": 2288,
-    "timeMonth": 2257,
-    "timeYear": 2108,
+    "time": 2106,
+    "timeDay": 3029,
+    "timeWeek": 2281,
+    "timeMonth": 2260,
+    "timeYear": 2106,
     "dailyMinutesDown": {
-      "2024-11-13": 47,
+      "2024-11-13": 38,
       "2024-11-08": 45,
       "2024-11-06": 46,
       "2024-11-05": 23,
@@ -40,7 +40,8 @@
       "2024-09-25": 17,
       "2024-09-15": 21,
       "2024-09-08": 19,
-      "2024-08-27": 19
+      "2024-08-27": 19,
+      "2024-08-26": 19
     }
   },
   {
@@ -55,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 536,
-    "timeDay": 534,
-    "timeWeek": 1030,
-    "timeMonth": 651,
+    "timeDay": 565,
+    "timeWeek": 1063,
+    "timeMonth": 649,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2024-07-20": 18
