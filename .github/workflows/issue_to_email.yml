@@ -1,0 +1,28 @@
+name: Issue Notification
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  send_email:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Send email
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.feishu.cn
+        server_port: 587
+        username: ${{ secrets.SMTP_USERNAME }}
+        password: ${{ secrets.SMTP_PASSWORD }}
+        subject: 'New GitHub Issue Created: #${{ github.event.issue.number }}'
+        body: |
+          Issue Title: ${{ github.event.issue.title }}
+          Issue Body: ${{ github.event.issue.body }}
+          Issue URL: ${{ github.event.issue.html_url }}
+        to: ${{ secrets.MAILLIST }}
+        from: service@ccnuacm.com
