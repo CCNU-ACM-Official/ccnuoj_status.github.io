@@ -111,17 +111,17 @@
     "url": "https://wiki.ccnuacm.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ccnuacm.com.ico",
     "slug": "ccnuacm-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 294,
-    "timeWeek": 213,
-    "timeMonth": 211,
-    "timeYear": 521,
+    "time": 531,
+    "timeDay": 258,
+    "timeWeek": 207,
+    "timeMonth": 209,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   }
 ]
