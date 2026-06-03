@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ac.ccnuacm.com.ico",
     "slug": "ccnuoj",
     "status": "down",
-    "uptime": "88.54%",
+    "uptime": "88.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1195,
-    "timeDay": 27,
-    "timeWeek": 35,
-    "timeMonth": 303,
-    "timeYear": 619,
-    "dailyMinutesDown": {
-      "2025-06-03": 31
-    }
+    "time": 1191,
+    "timeDay": 74,
+    "timeWeek": 43,
+    "timeMonth": 287,
+    "timeYear": 614,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CCNUACM-Wiki",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 188,
-    "timeYear": 276,
+    "time": 359,
+    "timeDay": 245,
+    "timeWeek": 182,
+    "timeMonth": 192,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   }
 ]
